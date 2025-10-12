@@ -37,9 +37,9 @@ def gather_lora_params(model, bias):
                 lora_bias_names.add(bias_name)
             elif 'bias' in n:
                 maybe_lora_bias[n] = p
-        for n, p in maybe_lora_bias:
-            if bias_name in lora_bias_names:
-                state_dict[bias_name] = p
+        for n, p in maybe_lora_bias.items():
+            if n in lora_bias_names:
+                state_dict[n] = p
     else:
         keys = ['lora_', 'modules_to_save', 'bias'] if bias == 'all' else ['lora_', 'modules_to_save']
         state_dict = {n: p for n, p in model.named_parameters() if any(k in n for k in keys)}
