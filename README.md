@@ -25,7 +25,8 @@
 
 ## 🔥 News
 
-- **`2026.01.27`** 🌴 Our paper has been accepted by [ICLR 2026](https://iclr.cc/).
+- **`2026.01.27`** 🌴 Our full paper has been accepted by [ICLR 2026](https://iclr.cc/).
+- **`2025.09.23`** 🧠 VideoMind has been accepted by [LAW Workshop @ NeurIPS 2025](https://sites.google.com/view/law-2025) as Spotlight.
 - **`2025.04.05`** 📊 See [BENCHMARK.md](/docs/BENCHMARK.md) for evaluation results of VideoMind on public benchmarks.
 - **`2025.03.28`** 🚀 VideoMind-2B is ready on [Hugging Face Spaces](https://huggingface.co/spaces/yeliudev/VideoMind-2B). Check it out!
 - **`2025.03.21`** ⭐️ Code, model, and dataset release.
