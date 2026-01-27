@@ -2,7 +2,7 @@
   <img width="350" src=".github/logo.png">
 </p>
 
-<h2 align="center">VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning</h2>
+<h2 align="center">VideoMind: A Chain-of-LoRA Agent for Temporal-Grounded Video Reasoning</h2>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2503.13444" target="_blank"><img src="https://img.shields.io/badge/arXiv-2503.13444-red"></a>
