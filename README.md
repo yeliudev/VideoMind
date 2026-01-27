@@ -162,11 +162,11 @@ See [EVAL.md](/docs/EVAL.md) for details about evaluating VideoMind on public be
 Please kindly cite our paper if you find this project helpful.
 
 ```bibtex
-@article{liu2025videomind,
-  title={VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning},
+@inproceedings{liu2026videomind,
+  title={VideoMind: A Chain-of-LoRA Agent for Temporal-Grounded Video Reasoning},
   author={Liu, Ye and Lin, Kevin Qinghong and Chen, Chang Wen and Shou, Mike Zheng},
-  journal={arXiv preprint arXiv:2503.13444},
-  year={2025}
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2026}
 }
 ```
 
