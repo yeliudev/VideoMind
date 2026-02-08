@@ -8,7 +8,7 @@ from .ego4d_naq import Ego4DNaQDataset
 from .ego4d_nlq import Ego4DNLQDataset
 from .ego_timeqa import EgoTimeQACropDataset, EgoTimeQADataset, EgoTimeQAGroundingDataset
 from .hirest import HiRESTGroundingDataset, HiRESTStepBiasDataset, HiRESTStepDataset
-from .internvit_vtime import InternVidVTimeDataset
+from .internvid_vtime import InternVidVTimeDataset
 from .longvideobench import LongVideoBenchDataset
 from .lvbench import LVBenchDataset
 from .mlvu import MLVUDataset
